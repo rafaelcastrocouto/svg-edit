@@ -56,3 +56,10 @@ Supported browsers
  * Safari 4+
  * Chrome 1+
  * IE 6+ had been supported as of version 2.6 via Chrome Frame plugin and may still work for some features, but only IE 9+ will be supported going forward
+ * 
+ 
+Licenses
+-----------
+ * [Code MIT license](http://opensource.org/licenses/mit-license.php)
+ * [Content Creative Commons license](http://creativecommons.org/licenses/by-sa/3.0/)
+
