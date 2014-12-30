@@ -1,3 +1,8 @@
+
+[1]: http://rafaelcastrocouto.github.io/svg-edit/svg-edit-2.7/svg-editor.html
+
+[![svg-edit logo](https://sites.google.com/site/rafaelcastrocouto/download/svg.jpg)][1]
+
 svg-edit
 ==============
 #### SVG-edit is a fast, web-based, JavaScript-driven SVG drawing editor that works in any modern browser. ####
