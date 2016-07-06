@@ -1,7 +1,9 @@
 
-[1]: http://rafaelcastrocouto.github.io/svg-edit/svg-edit-2.7/svg-editor.html
+[1]: https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html
 
 [![svg-edit logo](https://sites.google.com/site/rafaelcastrocouto/download/svg.jpg)][1]
+
+#[Try SVG-edit here][1]
 
 svg-edit
 ==============
